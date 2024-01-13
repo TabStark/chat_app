@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "387926354040",
+    "project_id": "aspiranchat",
+    "storage_bucket": "aspiranchat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:387926354040:android:e3388f9c9d70041ba6a58d",
+        "android_client_info": {
+          "package_name": "com.example.chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "387926354040-rc6prjv98u33q6dbob1ff11a9a5g3157.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.chat_app",
+            "certificate_hash": "07b45fde5ee6713d13836bc19c66f2033671edf6"
+          }
+        },
+        {
+          "client_id": "387926354040-vg1ou9qh66k3fvi3oo4fd5av9a2tftgc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRuyV4KyaojN4sPkEGoul0_R0jHlcF73k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "387926354040-vg1ou9qh66k3fvi3oo4fd5av9a2tftgc.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "387926354040-9uk3vifs59uld7il6d9ui9hbboaq68sd.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.chatApp.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
